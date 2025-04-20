@@ -1,9 +1,4 @@
-"""
-作者：鑫鑫鑫
-微信：xinxinjijin8
-日期：2025.01.02
-未经作者允许，请勿转载
-"""
+
 import os
 
 ROOT_PATH = os.path.dirname(__file__)
